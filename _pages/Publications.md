@@ -11,6 +11,7 @@ permalink: /Publications/
     2025
         Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong,
         Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data, Stats 8(1), 7 (2025)
+        
         Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*, Haijun Gong,
         Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence Algorithms 18(2), 62 (2025) 
 
