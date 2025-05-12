@@ -8,26 +8,26 @@ permalink: /Publications/
 
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
 
-  -   2025
+    2025
         Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong,
         Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data, Stats 8(1), 7 (2025)
         
         Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*, Haijun Gong,
         Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence Algorithms 18(2), 62 (2025) 
 
-  -   2024
+    2024
         Tong Si**, Yunge Wang**, Lingling Zhang, Evan Richmond*, Tae-Hyuk Ahn, Haijun Gong,
         Multivariate time series change-point detection with a novel Pearson-like scaled Bregman divergence, Stats 7(2), 462-480 (2024)
     	
-  -   2023
+    2023
         Tong Si**, Zackary Hopkins**, John Yanev*, Jie Hou, Haijun Gong,
         A novel f-divergence based generative adversarial imputation method for scRNA-seq data analysis PLOS ONE (2023)
     	
-  -  2021
+    2021
         Helen Richards*, Yunge Wang**, Tong Si**, Hao Zhang*, Haijun Gong,
         Intelligent Learning and Verification of Biological Networks. Advances in Artificial Intelligence, Computation, and Data 
         Science (2021)
-
+        
     2019
         W. Feng, Z. Yu, M. Kang, Haijun Gong, T.-H. Ahn,
         Practical Evaluation of Different Omics Data Integration Methods. Studies in Computational Intelligence, International 
