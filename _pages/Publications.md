@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications and Presentations"
-permalink: /publications/
+permalink: /Publications/
 ---
 
 ##  Peer-Reviewed Journal Papers
