@@ -6,9 +6,6 @@ permalink: /publications/
 
 ##  Peer-Reviewed Journal Papers
 
-1. **Zhongyuan Zhao**, Peng Zou, Yuan Fang, **Tong Si**, Bofang Yi, Tao Zhang.  
-   *Machine Learning Approaches for Assessing Medication Transfer to Human Breast Milk*.  
-   *Journal of Pharmacokinetics and Pharmacodynamics*, 52:25 (2025).
 
 2. Wen-Shan Liu, **Tong Si**, Aldas Kriauciunas, Marcus Snell, Haijun Gong.  
    *Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data*.  
