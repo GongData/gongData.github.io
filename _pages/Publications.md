@@ -310,7 +310,7 @@ A novel procedure for statistical inference and  verification of  gene regulator
  <a style="text-decoration:none" 
 href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999149">
 Probabilistic Verification of  ER Stress-induced Signaling Pathways,</a> <i> IEEE International Conference on Bioinformatics and Biomedicine</i>  <a style="text-decoration:none" 
-href="http://scm.ulster.ac.uk/~bibm/2014/index.html"> (BIBM-2014</a>). <font   color="#38761d"> (acceptance rate: 19%)</font></span> 
+href="http://scm.ulster.ac.uk/~bibm/2014/index.html"> (BIBM-2014</a>). <font   color="#38761d"> (acceptance rate: 19%)</font> 
 <a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/Research/ERprism.zip"> [Code]</a>
 
 <br>
@@ -422,7 +422,7 @@ for Pancreatic Cancer Survival</a>. <i> Journal of Bioinformatics and Computatio
         <li> <b>Haijun Gong</b>, P. Zuliani, Q. Wang, E. M. Clarke (2011) <br>
  <a style="text-decoration:none" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6161052">
 Formal Analysis for Logical Models of Pancreatic Cancer</a>.
-<i> 50th IEEE Conference on Decision and Control and European Control Conference</i></a>(<a href="http://www.ieeecss.org/CAB/conferences/cdcecc2011/">CDC-ECC-2011</a>).
+<i> 50th IEEE Conference on Decision and Control and European Control Conference</i>(<a href="http://www.ieeecss.org/CAB/conferences/cdcecc2011/">CDC-ECC-2011</a>).
 </li>  </div></ul>
 </td>
 <td class="p2">
@@ -581,5 +581,3 @@ Phenomenological Analysis of B -> PP Decays with QCD Factorization</a>. <i>Physi
   </td>
 </table>
 
-</br>
-</ul>
