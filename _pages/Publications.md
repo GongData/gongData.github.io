@@ -9,14 +9,15 @@ permalink: /Publications/
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
 
 
- <a name="2025"></a>
+<a name="2025"></a>
+
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2025</font></b></p>
-
-<table class="pp">
+	
+<table class="pp"> 
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
-
+	  
   <li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="
 https://doi.org/10.3390/stats8010007">
@@ -24,7 +25,18 @@ https://doi.org/10.3390/stats8010007">
 </a>
    <i>
 Stats</i> 8(1), 7 (2025)
-</span>
+<br>
+
+</li>  </div></ul>
+</td>
+<td class="p2">
+  </td>
+</table>
+
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
    <li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="
@@ -199,7 +211,7 @@ Statistical Analysis and Probabilistic Verification of Stress-induced Signaling 
 </table>
 
 
-     <a name="2015"></a>
+<a name="2015"></a>
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2015</font></b></p>
