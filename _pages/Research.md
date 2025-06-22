@@ -4,6 +4,8 @@ title: "Research"
 permalink: /Research/
 ---
 
+## My current research projects are funded by NIH-NIGMS and SLU-PRF grants ##
+
 ##  Peer-Reviewed Papers
 
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
