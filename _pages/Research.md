@@ -15,7 +15,24 @@ permalink: /Research/
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2025</font></b></p>
-	
+
+
+<table class="pp"> 
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+
+ <li>  Yunge Wang**, Lingling Zhang, Tong Si, Sarah Roberts*, Yuqi Wang, <b>Haijun Gong</b>b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence From Time-Series scRNA- Seq Data.</a>
+   <i> Current Issues in Molecular Biology </i> (2025)
+<br>
+<br>
+
+</li>  </div></ul>
+</td>
+<td class="p2">
+  </td>
+</table>
+
+ 
 <table class="pp"> 
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
