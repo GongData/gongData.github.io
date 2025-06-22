@@ -183,8 +183,6 @@ LONGO: an R package for interactive gene length dependent analysis for neuronal 
 </a> <i> Bioinformatics,</i> Volume 34, Issue 13, i422-i428, 2018.
   <br>
 
-</span>
-
 </li>  </div></ul>
 </td>
 <td class="p2">
@@ -447,7 +445,7 @@ Model Checking of a Diabetes-Cancer Model</a>. <i> International symposium on co
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
        <li> <b>Haijun Gong</b>, Q. Wang, P. Zuliani, J. Faeder, M. Lotze, E. M. Clarke (2011) <br>
 <a style="text-decoration:none" href="http://dblp.uni-trier.de/db/conf/bicob/bicob2011.html"> Symbolic Model Checking of Signaling Pathways in Pancreatic Cancer.</a>
-<i> International Conference on Bioinformatics and Computational Biology</i></a> (<a href="http://sce.uhcl.edu/bicob11/">BiCoB-11</a>).
+<i> International Conference on Bioinformatics and Computational Biology</i> (<a href="http://sce.uhcl.edu/bicob11/">BiCoB-11</a>).
 </li>  </div></ul>
 </td>
 <td class="p2">
