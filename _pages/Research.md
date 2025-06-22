@@ -185,19 +185,14 @@ LONGO: an R package for interactive gene length dependent analysis for neuronal 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2016</font></b></p>
 
-
 <table class="pp">
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-    <li>  Y. Ma**, L. Feng*, Y. Guo, <b>Haijun Gong</b> (2016)
-  <br>
+<li>  Y. Ma**, L. Feng*, Y. Guo, <b>Haijun Gong</b> (2016)
 <a style="text-decoration:none" href="http://www.inderscience.com/info/inarticle.php?artid=74683">
 Statistical Analysis and Probabilistic Verification of Stress-induced Signaling Pathways,</a>
    <i>International Journal of Data Mining and Bioinformatics. </i>Vol. 14, No. 2, 2016.
-
-<a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/research/IJDMB.zip"> [Code]</a>
-
 <br>
 
 </li>  </div></ul>
