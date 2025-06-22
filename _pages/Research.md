@@ -25,16 +25,7 @@ permalink: /Research/
    <i> Current Issues in Molecular Biology </i> (2025)
 <br>
 
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
- 
-<table class="pp"> 
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
 	  
   <li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="
