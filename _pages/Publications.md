@@ -9,7 +9,13 @@ permalink: /Publications/
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
 
 
-### 2025
+ <a name="2025"></a>
+<p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
+<p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2025</font></b></p>
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
   <li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="
@@ -28,13 +34,12 @@ Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Div
    <i>
 Algorithms</i> 18(2), 62 (2025)
 
-
-</td>
+</span>
 
 </li>  </div></ul>
+</td>
 <td class="p2">
   </td>
-
 </table>
 
  <a name="2024"></a>
