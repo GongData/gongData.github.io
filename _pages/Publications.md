@@ -48,8 +48,6 @@ Algorithms</i> 18(2), 62 (2025)
 
 </li>  </div></ul>
 </td>
-<td class="p2">
-  </td>
 </table>
 
  <a name="2024"></a>
