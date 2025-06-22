@@ -529,7 +529,7 @@ Improving Child Literacy in Africa: Experiments with an Automated Reading Tutor.
        <li> <b>Haijun Gong</b>, D. Sengupta, A. Linstedt, R. Schwartz (2008) <br>  <a style="text-decoration:none" href="http://www.cell.com/biophysj/retrieve/pii/S0006349508701322">
 Simulated de novo Assembly of Golgi  Compartments by Selective Cargo Capture During Vesicle Budding and Targeted Vesicle Fusion</a>. <i> Biophysical Journal</i> , Volume 95
 </li><br>
-</li>  </div></ul>
+  </div></ul>
 </td>
 <td class="p2">
   </td>
