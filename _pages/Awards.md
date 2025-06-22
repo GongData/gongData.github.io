@@ -7,18 +7,18 @@ permalink: /Awards/
 ## Grants and Awards ##
 	
 - National Institutes of Health (NIH)-NIGMS (<b>PI</b>, 2022-2025)
-  ** Project: Novel Systems Biology Methods for the Cell-type-specific Regulatory Networks Reconstruction from 
+  - Project: Novel Systems Biology Methods for the Cell-type-specific Regulatory Networks Reconstruction from 
 scRNA-seq Data
 
 - President's Research Funds (PRF)  (<b>PI</b>, 2022-2023) 
-Project: GAN-based deep learning methods for the scRNA-sequencing data analysis.
+  - Project: GAN-based deep learning methods for the scRNA-sequencing data analysis.
 
 
 - National Institutes of Health (NIH)-NIGMS (<b>PI</b>, 2018-2022) 
-Project: A Systems Biology Approach to Investigate the Structure Changes of Biological Network.
+ - Project: A Systems Biology Approach to Investigate the Structure Changes of Biological Network.
 
 - President's Research Fund (PRF) (<b>PI</b>, 2014-2015)
-Project: Computational Analysis of Signling Pathways in the Cancer.
+ - Project: Computational Analysis of Signling Pathways in the Cancer.
 
 
 - National Institutes of Health (NIH) (R01 Co-Investigator, 2015-2017)
