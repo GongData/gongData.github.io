@@ -7,7 +7,7 @@ permalink: /Students/
 ## Graduate Students ##
 
     - Tong Si (Ph.D. in Statistics, 2024. Now tenure track Assistant Professor at Saint Louis University)
-    - Yunge Wang (Ph.D. Candidate, Math & Statistics, SLU, 2019-2025)
+    - Yunge Wang (Ph.D. in Statistics, 2025, Now, Postdoc at UCF, 2019-2025)
     - Wen-Shan Liu (Master, SLU, 2023-2024)
     - Yonghe Lu (Master in Statistics, Australian National University & Saint Louis University, 2019)
     - Tsung-Cheng Lee (SLU Master, 2023)
