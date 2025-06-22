@@ -257,16 +257,7 @@ A novel procedure for statistical inference and  verification of  gene regulator
 </a> <i> BMC Systems Biology</i>, V8:S4
 <a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/Research/ER.zip"> [Code]</a>
 
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
 
 <li>  <b>Haijun Gong</b>, Lu Feng* (2014)
 <br>
@@ -278,32 +269,13 @@ href="http://scm.ulster.ac.uk/~bibm/2014/index.html"> (BIBM-2014</a>). <font   c
 
 <br>
 
-
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
 
   <li>  <b>Haijun Gong</b>, <a style="text-decoration:none" href="http://www.urmc.rochester.edu/biostat/people/faculty/wu-tongtong.cfm"> Tong Tong Wu</a>,
 Edmund Clarke (2014) <br>
 <a style="text-decoration:none" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4080266/"> Pathway-gene identification for pancreatic cancer survival via doubly regularized Cox
 regression,</a> <i> BMC Systems Biology</i>, Vol 8, S1:S3
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
    <li>  <b>Haijun Gong</b>, Tong Tong Wu, Edmund Clarke (2014) <br> <a style="text-decoration:none" href="http://www.sciencedirect.com/science/article/pii/B9780124081031000066"> Statistical Analysis of High-Dimensional Data
 for Pancreatic Cancer, </a>
 <i> Molecular Diagnostics and Treatment of Pancreatic Cancer: Systems and Network Biology Approaches</i>  (Chapter 6).
