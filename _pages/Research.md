@@ -36,16 +36,7 @@ https://doi.org/10.3390/stats8010007">
 Stats</i> 8(1), 7 (2025)
 <br>
 
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
 
    <li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="
