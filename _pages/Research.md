@@ -225,15 +225,7 @@ Models from High-dimensional Data</a>,
    <i>Lecture Notes in Bioinformatics</i>, LNBI 9162 (<a style="text-decoration:none" href="http://www.springer.com/in/book/9783319218427">DILS-2015</a>)
 <a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/Research/DILS.zip"> [Code]</a>
 
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+</li>  
 
   <li>  <b>Haijun Gong</b>, J. Klinger*, K. Damazyn*, X. Li**, S. Huang* (2015)
   <br>
