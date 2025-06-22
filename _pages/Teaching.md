@@ -21,6 +21,7 @@ permalink: /Teaching/
 
 ###  Australian National University (2019)
 
-- **Applied Statistics** 
+- **Applied Statistics**
+  
 ---
 
