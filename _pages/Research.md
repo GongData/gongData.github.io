@@ -149,11 +149,11 @@ Intelligence (AAAI-19)
 
 
 
-<a name="2018"></a>
+<a name="2018"></a>More actions
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2018</font></b></p>
-	
+
 <table class="pp"> 
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
@@ -168,6 +168,14 @@ An Integrative Analysis of Time-varying Regulatory Networks from High-dimensiona
 
 </li>  </div></ul>
 </td>
+<td class="p2">
+  </td>
+</table>
+
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
     <li> M. McCoy, A. Paul, M. Victor, M. Richner, H. Gabel, <b> Haijun Gong</b>, A. Yoo, T. Ahn (2018),
 <a style="text-decoration:none" href="https://academic.oup.com/bioinformatics/article/34/13/i422/5045809">
