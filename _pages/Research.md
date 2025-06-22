@@ -24,7 +24,6 @@ permalink: /Research/
  <li>  Yunge Wang**, Lingling Zhang, Tong Si, Sarah Roberts*, Yuqi Wang, <b>Haijun Gong</b>b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence From Time-Series scRNA- Seq Data.</a>
    <i> Current Issues in Molecular Biology </i> (2025)
 <br>
-<br>
 
 </li>  </div></ul>
 </td>
