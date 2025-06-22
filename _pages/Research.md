@@ -36,12 +36,10 @@ permalink: /Research/
 
 </li>  
 
-   <li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
-<a style="text-decoration:none" href="
-https://doi.org/10.3390/a18020062">
-<br> 
-Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence</a>
-   <i>
+<li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
+<a style="text-decoration:none" href=" https://doi.org/10.3390/a18020062">
+<br> Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence</a>
+<i>
 Algorithms</i> 18(2), 62 (2025)
 
 </li>  </div></ul>
@@ -56,9 +54,8 @@ Algorithms</i> 18(2), 62 (2025)
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-   <li> Tong Si**, Yunge Wang**, Lingling Zhang, Evan Richmond*, Tae-Hyuk Ahn,  <b> Haijun Gong</b>,
-<a style="text-decoration:none" href="
-https://www.mdpi.com/2571-905X/7/2/28"> 
+<li> Tong Si**, Yunge Wang**, Lingling Zhang, Evan Richmond*, Tae-Hyuk Ahn,  <b> Haijun Gong</b>,
+<a style="text-decoration:none" href="https://www.mdpi.com/2571-905X/7/2/28"> 
 <br>
 Multivariate time series change-point detection with a novel Pearson-like scaled Bregman divergence, 
 </a>
