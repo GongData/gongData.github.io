@@ -46,7 +46,7 @@ Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Div
    <i>
 Algorithms</i> 18(2), 62 (2025)
 
-</li>  
+</li>  </div></ul>
 </td>
 </table>
 
