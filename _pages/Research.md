@@ -181,8 +181,6 @@ LONGO: an R package for interactive gene length dependent analysis for neuronal 
 
 </li>  </div></ul>
 </td>
-<td class="p2">
-  </td>
 </table>
 
 
