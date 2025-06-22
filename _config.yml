@@ -1,8 +1,8 @@
-title: "Tong Si"
-email: "tsi@culver.edu"
-description: "Assistant Professor of Computer Science and Math"
+title: "Haijun Gong"
+email: "haijun.gong@slu.edu"
+description: "Professor of Statistics"
 baseurl: ""
-url: "https://tongsi98.github.io"
+url: "https://gongdata.github.io"
 theme: minima
 collections:
   pages:
