@@ -27,13 +27,11 @@ permalink: /Research/
 
 </li>  
 	  
-  <li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
-<a style="text-decoration:none" href="
-https://doi.org/10.3390/stats8010007">
+<li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
+<a style="text-decoration:none" href="https://doi.org/10.3390/stats8010007">
 <br> Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data,
 </a>
-   <i>
-Stats</i> 8(1), 7 (2025)
+ <i> Stats </i> 8(1), 7 (2025)
 <br>
 
 </li>  
