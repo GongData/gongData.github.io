@@ -40,7 +40,6 @@ permalink: /Research/
 <br> Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence 
 </a>
 <i> Algorithms </i> 18(2), 62 (2025)
-</br>
 </li>  
 
 </div></ul>
