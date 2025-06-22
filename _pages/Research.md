@@ -217,17 +217,7 @@ Weighted Gene Coexpression Network Analysis of Prostate Cancer,</a>
 
 <br>
 
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
-
+</li>  
  <li>  Y. Ma**, K. Damazyn*,  J. Klinger*, <b>Haijun Gong</b> (2015)
   <br>
 <a style="text-decoration:none" href="http://cs.slu.edu/~gong/Research/DILSGong.pdf"> Inference and Verification of Probabilistic Graphical
