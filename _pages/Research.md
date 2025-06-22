@@ -148,6 +148,7 @@ Intelligence (AAAI-19)
 </table>
 
 
+
 <a name="2018"></a>
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
@@ -170,6 +171,10 @@ An Integrative Analysis of Time-varying Regulatory Networks from High-dimensiona
 <td class="p2">
   </td>
 </table>
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
 
     <li> M. McCoy, A. Paul, M. Victor, M. Richner, H. Gabel, <b> Haijun Gong</b>, A. Yoo, T. Ahn (2018),
