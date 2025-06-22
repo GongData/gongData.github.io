@@ -36,7 +36,7 @@ International Conference on Bioinformatics</a> (2010)
 - Honorable Mention Student Paper Award, International Conference on Information and Communication Technologies and Development (2009)
 
 
- ##  Memberships ##
+##  Memberships ##
        
 - International Society for Computational Biology (ISCB)
 
