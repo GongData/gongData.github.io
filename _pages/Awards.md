@@ -7,7 +7,7 @@ permalink: /Awards/
 ## Grants and Awards ##
 	
 - National Institutes of Health (NIH)-NIGMS (<b>PI</b>, 2022-2025)
-  -- Project: Novel Systems Biology Methods for the Cell-type-specific Regulatory Networks Reconstruction from 
+  ** Project: Novel Systems Biology Methods for the Cell-type-specific Regulatory Networks Reconstruction from 
 scRNA-seq Data
 
 - President's Research Funds (PRF)  (<b>PI</b>, 2022-2023) 
