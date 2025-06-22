@@ -33,16 +33,17 @@ permalink: /Research/
 </a>
  <i> Stats </i> 8(1), 7 (2025)
 <br>
-
 </li>  
 
 <li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href=" https://doi.org/10.3390/a18020062">
-<br> Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence</a>
-<i>
-Algorithms</i> 18(2), 62 (2025)
+<br> Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence 
+</a>
+<i> Algorithms </i> 18(2), 62 (2025)
+</br>
+</li>  
 
-</li>  </div></ul>
+</div></ul>
 </td>
 </table>
 
