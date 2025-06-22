@@ -13,8 +13,8 @@ permalink: /Publications/
 
 <ul style="padding-left: 20px;">
   <li>
+    Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong, 
     <a href="https://www.mdpi.com/2571-905X/8/1/7" style="color:blue;">
-    Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong,  
     <em>Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data</em>,  
     <strong>Stats</strong> 8(1), 7 (2025)</a>
   </li>
