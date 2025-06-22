@@ -70,7 +70,7 @@ Multivariate time series change-point detection with a novel Pearson-like scaled
 </a>
    <i>
 Stats</i> 7(2), 462-480 (2024)
-</span>
+
 
 </li>  </div></ul>
 </td>
@@ -95,7 +95,7 @@ A novel f-divergence based generative adversarial imputation method for scRNA-se
 </a>
    <i>
 PLOS ONE</i> (2023)
-</span>
+
 
 </li>  </div></ul>
 </td>
@@ -119,7 +119,7 @@ Intelligent Learning and Verification of Biological Networks.
 </a> 
    <i> 
 Advances in Artificial Intelligence, Computation, and Data Science</i> (2021)
-</span>
+
 
 </li>  </div></ul>
 </td>
@@ -142,7 +142,8 @@ Advances in Artificial Intelligence, Computation, and Data Science</i> (2021)
    <i> International Workshop on Health Intelligence (W3PHAI'19) In conjunction with the 33rd AAAI Conference on Artificial 
 Intelligence (AAAI-19)
 </i> (2019)
-</span>
+
+<br>
 
 </li>  </div></ul>
 </td>
@@ -151,12 +152,12 @@ Intelligence (AAAI-19)
 </table>
 
 
+<a name="2018"></a>
 
- <a name="2018"></a>
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2018</font></b></p>
-
-<table class="pp">
+	
+<table class="pp"> 
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
@@ -167,6 +168,17 @@ An Integrative Analysis of Time-varying Regulatory Networks from High-dimensiona
    <i> IEEE International Conference on Big Data, Page 3798-3807 (2018)  </i>
 
   <br>
+
+</li>  </div></ul>
+</td>
+<td class="p2">
+  </td>
+</table>
+
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
     <li> M. McCoy, A. Paul, M. Victor, M. Richner, H. Gabel, <b> Haijun Gong</b>, A. Yoo, T. Ahn (2018),
 <a style="text-decoration:none" href="https://academic.oup.com/bioinformatics/article/34/13/i422/5045809">
