@@ -147,9 +147,7 @@ Intelligence (AAAI-19)
   </td>
 </table>
 
-
-
-<a name="2018"></a>More actions
+<a name="2018"></a>
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
 <p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2018</font></b></p>
@@ -168,10 +166,7 @@ An Integrative Analysis of Time-varying Regulatory Networks from High-dimensiona
 
 </li>  </div></ul>
 </td>
-<td class="p2">
-  </td>
 </table>
-
 
 <table class="pp">
  <td class="p1">
