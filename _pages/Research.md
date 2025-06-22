@@ -147,6 +147,43 @@ Intelligence (AAAI-19)
   </td>
 </table>
 
+
+
+<a name="2018"></a>
+
+<p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
+<p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2018</font></b></p>
+
+
+<table class="pp"> 
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+
+ <li> Zi Wang*, Yun Guo*, <b> Haijun Gong</b>,
+<a style="text-decoration:none" href="https://ieeexplore.ieee.org/document/8622361">
+<br> 
+An Integrative Analysis of Time-varying Regulatory Networks from High-dimensional Data,</a>
+   <i> IEEE International Conference on Big Data, Page 3798-3807 (2018)  </i>
+  <br>
+
+</li>  
+
+   <li> Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*,  <b> Haijun Gong</b>,
+<a style="text-decoration:none" href="
+https://doi.org/10.3390/a18020062">
+<br> 
+Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence</a>
+   <i>
+Algorithms</i> 18(2), 62 (2025)
+
+</li>  </div></ul>
+</td>
+</table>
+
+
+
+
+
 <a name="2018"></a>
 
 <p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
