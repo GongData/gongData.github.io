@@ -46,8 +46,6 @@ Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Div
    <i>
 Algorithms</i> 18(2), 62 (2025)
 
-</span>
-
 </li>  </div></ul>
 </td>
 <td class="p2">
@@ -210,7 +208,6 @@ LONGO: an R package for interactive gene length dependent analysis for neuronal 
 <a style="text-decoration:none" href="http://www.inderscience.com/info/inarticle.php?artid=74683">
 Statistical Analysis and Probabilistic Verification of Stress-induced Signaling Pathways,</a>
    <i>International Journal of Data Mining and Bioinformatics. </i>Vol. 14, No. 2, 2016.
-</span> 
 
 <a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/research/IJDMB.zip"> [Code]</a>
 
