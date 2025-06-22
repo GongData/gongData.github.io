@@ -4,22 +4,14 @@ title: "Awards"
 permalink: /Awards/
 ---
 
-<h2> Grants and Awards</h2>
-	<ul>
-
-<li>
-<font color="Blue"><b> National Institutes of Health (NIH)-NIGMS</b> </font> (<b>PI</b>, 2022-2025) </li>
+## Grants and Awards ##
+	
+- National Institutes of Health (NIH)-NIGMS</b> </font> (PI, 2022-2025)
 Project: Novel Systems Biology Methods for the Cell-type-specific Regulatory Networks Reconstruction from 
 scRNA-seq Data
-</li>
 
-</li><br> <br>
-
-
-<li>
-<font color="Blue"><b> President's Research Funds (PRF)</b> </font> (<b>PI</b>, 2022-2023) </li>
+- President's Research Funds (PRF)  (<b>PI</b>, 2022-2023) 
 Project: GAN-based deep learning methods for the scRNA-sequencing data analysis.</li>
-</li><br> <br>
 
 
 <li>
