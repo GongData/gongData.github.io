@@ -4,9 +4,27 @@ title: "Publications"
 permalink: /Publications/
 ---
 
-##  Peer-Reviewed Journal Papers
+##  Peer-Reviewed Papers
 
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
+
+
+### 2025
+
+<ul style="padding-left: 20px;">
+  <li>
+    <a href="https://www.mdpi.com/2571-905X/8/1/7" style="color:blue;">
+    Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong,  
+    <em>Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data</em>,  
+    <strong>Stats</strong> 8(1), 7 (2025)</a>
+  </li>
+  <li>
+    <a href="https://www.mdpi.com/2076-3417/18/2/62" style="color:blue;">
+    Yunge Wang**, Lingling Zhang, Tong Si, Graham Bishop*, Haijun Gong,  
+    <em>Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence</em>,  
+    <strong>Algorithms</strong> 18(2), 62 (2025)</a>
+  </li>
+</ul>
 
     2025
         Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*, Haijun Gong,
@@ -131,13 +149,3 @@ permalink: /Publications/
         D. Du, Haijun Gong, J. Sun, D. Yang, G. Zhu (2002)
         Phenomenological Analysis of B -> PP Decays with QCD Factorization. Physical Review D, Volume 65, 7
     	
-
-##  Selected Presentations
-
-- Oral – *International Symposium on Bioinformatics Research and Applications*, Jul. 2024  
-- Poster – *GLBIO Conference*, Pittsburgh, PA, May 2024  
-- Oral – *Annual Graduate Research Symposium*, Saint Louis University, Apr. 2024  
-- Oral – *MAA Missouri Section*, Liberty, MO, Apr. 2024  
-- Oral – *Danforth Plant Sciences Center*, St. Louis, MO, Jan. 2024  
-- Oral – *22nd International Conference on Bioinformatics*, Brisbane, Australia, Nov. 2023  
-- Poster – *International Conference on Intelligent Biology & Medicine*, Tampa, FL, Jul. 2023
