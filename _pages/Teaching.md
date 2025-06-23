@@ -6,7 +6,7 @@ permalink: /Teaching/
 
 ## Teaching Experience
 
-## Saint Louis University (Aug. 2012 – Present)
+### Saint Louis University (Aug. 2012 – Present)
 
 - Probability Theory 
 - Mathematical Statistics 
@@ -18,7 +18,7 @@ permalink: /Teaching/
 - Calculus  
 
 
-##  Australian National University (2019)
+###  Australian National University (2019)
 
 - Applied Statistics
   
