@@ -41,8 +41,6 @@ permalink: /Research/
 <i> Algorithms </i> 18(2), 62 (2025)
 </li>  
 
-</div></ul>
-</td>
 </table>
 
  <a name="2024"></a>
