@@ -333,7 +333,7 @@ Pathways in Cancer</a>.  <i> Lecture Notes in Computer Science</i>, Vol 6479
 <table class="pp">
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
-   <li> <a style="text-decoration:none" href="http://www.urmc.rochester.edu/biostat/people/faculty/wu-tongtong.cfm"> T. T. Wu</a>, <b>Haijun Gong</b>, and E. Clarke (2011)
+ <li> <a style="text-decoration:none" href="http://www.urmc.rochester.edu/biostat/people/faculty/wu-tongtong.cfm"> T. T. Wu</a>, <b>Haijun Gong</b>, and E. Clarke (2011)
         <a style="text-decoration:none" href="http://www.worldscinet.com/jbcb/09/09supp01/S0219720011005744.html">A Transcriptome Analysis by Lasso Penalized Cox Regression
 for Pancreatic Cancer Survival</a>. <i> Journal of Bioinformatics and Computational Biology</i>, Volume 9, Suppl. 1
 </li>  
@@ -342,10 +342,10 @@ for Pancreatic Cancer Survival</a>. <i> Journal of Bioinformatics and Computatio
 Formal Analysis for Logical Models of Pancreatic Cancer</a>.
 <i> 50th IEEE Conference on Decision and Control and European Control Conference</i>(<a href="http://www.ieeecss.org/CAB/conferences/cdcecc2011/">CDC-ECC-2011</a>).
 </li>  
-       <li> <b>Haijun Gong</b>, P. Zuliani, E. M. Clarke (2011) <br> <a style="text-decoration:none" href="http://link.aip.org/link/doi/10.1063/1.3596647">
+ <li> <b>Haijun Gong</b>, P. Zuliani, E. M. Clarke (2011) <br> <a style="text-decoration:none" href="http://link.aip.org/link/doi/10.1063/1.3596647">
 Model Checking of a Diabetes-Cancer Model</a>. <i> International symposium on computational models for life sciences, AIP Conf. Proc.</i>  1371.
 </li>  
-       <li> <b>Haijun Gong</b>, Q. Wang, P. Zuliani, J. Faeder, M. Lotze, E. M. Clarke (2011) <br>
+<li> <b>Haijun Gong</b>, Q. Wang, P. Zuliani, J. Faeder, M. Lotze, E. M. Clarke (2011) <br>
 <a style="text-decoration:none" href="http://dblp.uni-trier.de/db/conf/bicob/bicob2011.html"> Symbolic Model Checking of Signaling Pathways in Pancreatic Cancer.</a>
 <i> International Conference on Bioinformatics and Computational Biology</i> (<a href="http://sce.uhcl.edu/bicob11/">BiCoB-11</a>).
 </li>  </div></ul>
@@ -364,14 +364,14 @@ Model Checking of a Diabetes-Cancer Model</a>. <i> International symposium on co
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-       <li> <b>Haijun Gong</b>, P. Zuliani, A. Komuravell, J. Faeder, E. Clarke (2010) <br> 
+<li> <b>Haijun Gong</b>, P. Zuliani, A. Komuravell, J. Faeder, E. Clarke (2010) <br> 
 <a style="text-decoration:none" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957678/"> 
 
 Analysis and Verification of the HMGB1 Signaling Pathway</a>. <i> BMC Bioinformatics, 11</i> , suppl 7. <span style="background-color:rgb(204,0,0);color:rgb(255,255,255)">Highly accessed </span>  <font color="#90000">  <b> [Best
 Paper Award] </b></font> 
 </li>  
 
-       <li> <b>Haijun Gong</b>, Y. Guo, A. Linstedt, R. Schwartz (2010)<br> <a style="text-decoration:none" href="http://link.aps.org/doi/10.1103/PhysRevE.81.011914">
+<li> <b>Haijun Gong</b>, Y. Guo, A. Linstedt, R. Schwartz (2010)<br> <a style="text-decoration:none" href="http://link.aps.org/doi/10.1103/PhysRevE.81.011914">
 Discrete, Continuous and Stochastic Models of Protein Sorting in the Golgi</a>. <i> Physical Review E</i> , Volume 81
 </li>  
 <li> G. Ayorkor Korsah, J. Mostow, MB Dias, TM Sweet, S. Belousov, MF Dias, <b>Haijun Gong</b> (2010) <br>
@@ -411,7 +411,7 @@ Improving Child Literacy in Africa: Experiments with an Automated Reading Tutor.
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-       <li> <b>Haijun Gong</b>, D. Sengupta, A. Linstedt, R. Schwartz (2008) <br>  <a style="text-decoration:none" href="http://www.cell.com/biophysj/retrieve/pii/S0006349508701322">
+<li> <b>Haijun Gong</b>, D. Sengupta, A. Linstedt, R. Schwartz (2008) <br>  <a style="text-decoration:none" href="http://www.cell.com/biophysj/retrieve/pii/S0006349508701322">
 Simulated de novo Assembly of Golgi  Compartments by Selective Cargo Capture During Vesicle Budding and Targeted Vesicle Fusion</a>. <i> Biophysical Journal</i> , Volume 95
 </li><br>
   </div></ul>
