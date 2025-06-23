@@ -298,16 +298,8 @@ Elsevier Academic Press
 in the Tumor Microenvironment, </a>
 <i> BMC Systems Biology</i>, Vol 7, S3
 <a style="text-decoration:none" href="http://mathstat.slu.edu/~gong/Research/PSC.zip"> [Code]</a>
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
-       <li> <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://sites.google.com/site/zupaolo/"> P. Zuliani</a>, E. M. Clarke (2013) <br>  <a style="text-decoration:none" href="http://www.eurekaselect.com/106260/article"> 
+</li>  
+<li> <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://sites.google.com/site/zupaolo/"> P. Zuliani</a>, E. M. Clarke (2013) <br>  <a style="text-decoration:none" href="http://www.eurekaselect.com/106260/article"> 
 Model checking of a synchronous diabetes-cancer logical network.
 </a><i> Current Bioinformatics</i>, Vol 8 
 </li>  </div></ul>
@@ -381,16 +373,8 @@ Paper Award] </b></font>
 
        <li> <b>Haijun Gong</b>, Y. Guo, A. Linstedt, R. Schwartz (2010)<br> <a style="text-decoration:none" href="http://link.aps.org/doi/10.1103/PhysRevE.81.011914">
 Discrete, Continuous and Stochastic Models of Protein Sorting in the Golgi</a>. <i> Physical Review E</i> , Volume 81
-</li>  </div></ul>
-</td>
-<td class="p2">
-  </td>
-</table>
-
-<table class="pp">
- <td class="p1">
-  <ul>  <div id="tagCB_tagjournal_tagKL_155">
-       <li> G. Ayorkor Korsah, J. Mostow, MB Dias, TM Sweet, S. Belousov, MF Dias, <b>Haijun Gong</b> (2010) <br>
+</li>  
+<li> G. Ayorkor Korsah, J. Mostow, MB Dias, TM Sweet, S. Belousov, MF Dias, <b>Haijun Gong</b> (2010) <br>
 Improving Child Literacy in Africa: Experiments with an Automated Reading
 Tutor.
 Information  Technologies and International Development 
@@ -445,7 +429,7 @@ Simulated de novo Assembly of Golgi  Compartments by Selective Cargo Capture Dur
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-      <li> <b>Haijun Gong</b>, J. Sun, D. Du (2002) <br>
+<li> <b>Haijun Gong</b>, J. Sun, D. Du (2002) <br>
 <font color=blue> Analysis of Ds -> Phi Pi Beyond Naive Factorization</font>. <i>High Energy Physics and Nuclear Physics</i>, Vol 26
 
 </li>  
