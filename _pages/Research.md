@@ -4,6 +4,25 @@ title: "Research"
 permalink: /Research/
 ---
 
+<div class="container">
+  <!-- Left Sidebar -->
+  <aside class="sidebar">
+    <img src="/assets/Haijun22.jpg" alt="Haijun Gong">
+    <h2>Haijun Gong, Ph.D. </h2>
+    <h3>Professor</h3>
+
+
+
+    <ul class="icon-list">
+      <li><i class="fa-solid fa-envelope"></i> <a href="mailto:haijun.gong@slu.edu">haijun.gong@slu.edu</a></li>
+      <li><i class="fa-solid fa-envelope-open-text"></i> <a href="https://www.slu.edu/arts-and-sciences/mathematics-statistics/faculty/haijun-gong.php">Official Homepage</a></li> 
+      <li><i class="fa-solid fa-file-pdf"></i> <a href="/assets/CV.pdf" download>CV</a></li>
+      <li><i class="fa-brands fa-github"></i> <a href="https://github.com/gongData" target="_blank">GitHub</a></li>
+      <li><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=c-urE8IAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></li>
+    </ul>
+  </aside>
+
+
 ## My current research projects are funded by NIH-NIGMS and SLU-PRF grants ##
 
 ##  Peer-Reviewed Papers
