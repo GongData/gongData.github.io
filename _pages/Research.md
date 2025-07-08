@@ -21,7 +21,7 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
- <li>  Yunge Wang**, Lingling Zhang, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
+ <li>  Yunge Wang**, Lingling Zhang, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/Xplore/home.jsp"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
    <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology </i> (2025)
 <br>
 
