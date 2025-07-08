@@ -21,17 +21,18 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
- <li>  Yunge Wang**, Lingling Zhang, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/Xplore/home.jsp"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
+<li>  Yunge Wang**, Lingling Zhang,  Tong Si, Sarah Roberts*, Yuqi Wang, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence From Time-Series scRNA- Seq Data.</a>
+   <i> Current Issues in Molecular Biology </i> (2025)
+<br>
+
+</li>  
+
+ <li> Lingling Zhang, Yunge Wang**, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/Xplore/home.jsp"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
    <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology </i> (2025)
 <br>
 
 </li>  
 
- <li>  Lingling Zhang, Yunge Wang**,  Tong Si, Sarah Roberts*, Yuqi Wang, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence From Time-Series scRNA- Seq Data.</a>
-   <i> Current Issues in Molecular Biology </i> (2025)
-<br>
-
-</li>  
 	  
 <li> Wen-Shan Liu**, Tong Si, Aldas Kriauciunas*, Marcus Snell*,  <b> Haijun Gong</b>,
 <a style="text-decoration:none" href="https://doi.org/10.3390/stats8010007">
