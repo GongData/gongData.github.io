@@ -32,7 +32,7 @@ scRNA-seq Data
 
 - Distinguished Reviewer: Computers in Biology and Medicine (2013-2014)
 
-- <b>Best Paper Award</b>,  <a style="text-decoration:none" href="http://incob.apbionet.org/incob10/0index.html">
+- <b>Best Paper Award</b>,  <a style="text-decoration:none" href="http://incob.apbionet.org/incob10">
 International Conference on Bioinformatics</a> (2010) 
 
 
