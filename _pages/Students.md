@@ -6,8 +6,8 @@ permalink: /Students/
 
 ## Graduate Students ##
 
-    - Yunge Wang (Ph.D. in Statistics, 2019-2025, Now, Postdoc at UCF)
-    - Dr. Tong Si, (Ph.D. in Statistics, 2020-2024) Assistant Professor, <a style="text-decoration:none" href="[https://ieeexplore.ieee.org/Xplore/home.jsp](https://www.slu.edu/medicine/health-and-clinical-outcomes-research/faculty/si-tong.php)"> <br> Department of Health and Clinical Outcomes Research, Saint Louis University.</a>  
+    - Yunge Wang (Ph.D. in Statistics, 2025) Now, Postdoc at UCF
+    - Dr. Tong Si, (Ph.D. in Statistics, 2024) Assistant Professor, Department of Health and Clinical Outcomes Research, Saint Louis University. 
     - Wen-Shan Liu (Master, SLU, 2023-2024)
     - Yonghe Lu (Master in Statistics, Australian National University & Saint Louis University, 2019)
     - Tsung-Cheng Lee (SLU Master, 2023)
