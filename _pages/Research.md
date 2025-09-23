@@ -21,7 +21,7 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
-<li>  Graham Bishop*,  Tong Si,  Isabelle Luebbert, Noor Al-Hammadi, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bioadv/vbaf225"> <br> tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.</a>
+<li>  Graham Bishop*,  Tong Si,  Isabelle Luebbert*, Noor Al-Hammadi, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bioadv/vbaf225"> <br> tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.</a>
    <i> Bioinformatics Advances </i> (2025)
 <br>
 
