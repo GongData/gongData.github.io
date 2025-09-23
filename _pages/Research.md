@@ -21,6 +21,12 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
+<li>  Graham Bishop*,  Tong Si,  Isabelle Luebbert, Noor Al-Hammadi, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bioadv/vbaf225"> <br> tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.</a>
+   <i> Bioinformatics Advances </i> (2025)
+<br>
+
+</li>  
+
 <li>  Yunge Wang**, Lingling Zhang,  Tong Si, Sarah Roberts*, Yuqi Wang, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/47/6/408"> <br> Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence From Time-Series scRNA- Seq Data.</a>
    <i> Current Issues in Molecular Biology </i> (2025)
 <br>
