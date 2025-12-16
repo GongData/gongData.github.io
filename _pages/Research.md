@@ -21,6 +21,12 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
+<li>  Graham Bishop*,  Tong Si,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bib/bbaf631.037"> <br> Imputation of time-series scRNA-seq data with a time-varying blue noise diffusion model.</a>
+   <i> Briefings in Bioinformatics </i> (2025)
+<br>
+
+</li>  
+
 <li>  Graham Bishop*,  Tong Si,  Isabelle Luebbert*, Noor Al-Hammadi, <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bioadv/vbaf225"> <br> tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.</a>
    <i> Bioinformatics Advances </i> (2025)
 <br>
@@ -39,8 +45,8 @@ permalink: /Research/
 
 </li>  
 
- <li> Lingling Zhang, Yunge Wang**, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/Xplore/home.jsp"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
-   <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology (in press) </i> (2025)
+ <li> Lingling Zhang, Yunge Wang**, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/document/11276344"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
+   <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology </i> (2025)
 <br>
 
 </li>  
