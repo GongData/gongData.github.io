@@ -33,7 +33,7 @@ permalink: /Research/
 
 </li>  
 
- <li> Lingling Zhang, Tong Si, Lucas Koch*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://dl.acm.org/"> <br> Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.</a>   <i> Proceedings of 12th International Conference on Bioinformatics Research and Applications (ICBRA) (in press) </i> (2025)
+ <li> Lingling Zhang, Tong Si, Lucas Koch*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3774976.3774995"> <br> Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.</a>   <i> Proceedings of 12th International Conference on Bioinformatics Research and Applications (ICBRA) </i> (2025)
 <br>
 
 </li>  
