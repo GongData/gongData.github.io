@@ -6,6 +6,8 @@ permalink: /Students/
 
 ## Graduate Students ##
 
+    - Graham Bishop (Master candidate, 2025 - Present)
+    - Min-Ho Ku (Master candidate, 2025 - Present)
     - Yunge Wang (Ph.D. in Statistics, 2025) Now, Postdoc at UCF
     - Dr. Tong Si, (Ph.D. in Statistics, 2024) Assistant Professor, Department of Health and Clinical Outcomes Research, Saint Louis University. 
     - Wen-Shan Liu (Master, SLU, 2023-2024)
