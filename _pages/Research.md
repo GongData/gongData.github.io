@@ -33,7 +33,7 @@ permalink: /Research/
 
 </li>  
 
- <li> Lingling Zhang, Tong Si, Lucas Koch*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3774976.3774995"> <br> Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.</a>   <i> Proceedings of 12th International Conference on Bioinformatics Research and Applications (ICBRA) </i> (2025) <a href="/assets/2025ICBRA.pdf">PDF</a>
+ <li> Lingling Zhang, Tong Si, Lucas Koch*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3774976.3774995"> <br> Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.</a>   <i> Proceedings of 12th International Conference on Bioinformatics Research and Applications (ICBRA) </i> (2025) <a href="/assets/2025-ICBRA.pdf">PDF</a>
 <br>
 
 </li>  
@@ -46,7 +46,7 @@ permalink: /Research/
 </li>  
 
  <li> Lingling Zhang, Yunge Wang**, Tong Si, Lucas Koch*, Sarah Roberts*,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/document/11276344"> <br> Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.</a>
-   <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology </i> (2025) <a href="/assets/2025ICBBT.pdf">PDF</a></li>
+   <i> Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology </i> (2025) <a href="/assets/2025-ICBBT.pdf">PDF</a></li>
 <br>
 
 </li>  
