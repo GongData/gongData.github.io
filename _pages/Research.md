@@ -21,6 +21,12 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
+<li>  Graham Bishop**,  Tong Si,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/document/11306560"> <br> Blue Noise-based Generative Models for the Imputation of Time-series Data.</a>
+   <i> 15th International Conference on Information Science and Technology (ICIST) </i> (2025) <a href="/assets/2025-ICIST.pdf">PDF</a>
+<br>
+
+</li>  
+
 <li>  Graham Bishop**,  Tong Si,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://doi.org/10.1093/bib/bbaf631.037"> <br> Imputation of time-series scRNA-seq data with a time-varying blue noise diffusion model.</a>
    <i> Briefings in Bioinformatics </i> (2025)
 <br>
