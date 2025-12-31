@@ -19,6 +19,7 @@ permalink: /Research/
 
 <table class="pp"> 
  <td class="p1">
+	 <ol>
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
 <li>  Graham Bishop**,  Tong Si,  <b>Haijun Gong</b>, <a style="text-decoration:none" href="https://ieeexplore.ieee.org/document/11306560"> <br> Blue Noise-based Generative Models for the Imputation of Time-series Data.</a>
@@ -476,6 +477,7 @@ Phenomenological Analysis of B -> PP Decays with QCD Factorization</a>. <i>Physi
 </li>  </div></ul>
 </td>
 <td class="p2">
+</ol>
   </td>
 </table>
 
