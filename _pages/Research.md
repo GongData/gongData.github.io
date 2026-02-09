@@ -11,6 +11,27 @@ permalink: /Research/
 
 [*undergraduates, **graduate students supervised by Dr. Gong at Saint Louis University]
 
+ <a name="2026"></a>
+<p style="margin: 0in 0in 0pt; font-size: 12pt;">&nbsp;</p>
+<p style="margin: 0in 0in 0pt; font-size: 13pt;"><b><font color="#000000">2026</font></b></p>
+
+<table class="pp">
+ <td class="p1">
+  <ul>  <div id="tagCB_tagjournal_tagKL_155">
+
+<li> Tong Si, <b> Haijun Gong</b>,
+<a style="text-decoration:none" href="https://www.mdpi.com/2571-905X/7/2/28"> 
+<br>
+Challenges and Advances in Bioinformatics and Computational Biology</a>
+   <i>
+Curr. Issues Mol. Biol. </i> 7(2), 48(2), 185 (2026)
+
+
+</li>  </div></ul>
+</td>
+<td class="p2">
+  </td>
+</table>
 
 <a name="2025"></a>
 
