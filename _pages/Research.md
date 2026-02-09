@@ -20,7 +20,7 @@ permalink: /Research/
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
 <li> Tong Si, <b> Haijun Gong</b>,
-<a style="text-decoration:none" href="https://www.mdpi.com/2571-905X/7/2/28"> 
+<a style="text-decoration:none" href="https://www.mdpi.com/1467-3045/48/2/185"> 
 <br>
 Challenges and Advances in Bioinformatics and Computational Biology</a>
    <i>
