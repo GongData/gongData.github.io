@@ -19,6 +19,12 @@ permalink: /Research/
  <td class="p1">
   <ul>  <div id="tagCB_tagjournal_tagKL_155">
 
+  <li>  Graham Bishop*,  Min-Ho Ku*, Daniel Lee**, <b>Haijun Gong</b>, Tong Si, <a style="text-decoration:none" href="https://doi.org/10.1093/bioadv/vbag248"> <br> Pseudotime-conditioned diffusion models for imputing time-series single-cell data.</a>
+   <i> Bioinformatics Advances </i> (2026)
+<br>
+
+</li>  
+
 <li>  Graham Bishop*,  Gavin Edwards**,  <b>Haijun Gong</b>, Tong Si, <a style="text-decoration:none" href="https://doi.org/10.1145/3822521.3822557"> <br> Adaptive Noise Scheduling for Diffusion-based Imputation of Time-series Single-cell Data.</a>
    <i> Proceedings of 18th International Conference on Bioinformatics and Biomedical Technology </i> (2026)
 <br>
